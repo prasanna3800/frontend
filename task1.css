@@ -1,0 +1,249 @@
+.frontend{
+    background-image: url(./imges/img1.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+    
+}
+.html{
+      background-image: url(./imges/img2.jpg);
+      height: 100vh;
+      background-size: 100% 100%;
+      background-attachment: fixed;
+      box-shadow: 2px 2px 5px 10px #808080; 
+      overflow-x: hidden;
+
+}
+
+.css{
+    background-image: url(./imges/css.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+.js{
+    background-image: url(./imges/js.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+.reactjs{
+    background-image: url(./imges/reactjs1.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+.angular{
+    background-image: url(./imges/angular3.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+.vuejs{
+    background-image: url(./imges/vuejs.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+.flutter{
+    background-image: url(./imges/flutte.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+.nextjs{
+    background-image: url(./imges/nextjs.jpeg);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+.typescript{
+    background-image: url(./imges/typescript.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+.reactnative{
+    background-image: url(./imges/reactnative.webp);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+.backend{
+    background-image: url(./imges/backend.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+.java{
+    background-image: url(./imges/java.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+.php{
+    background-image: url(./imges/php.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+
+.nodejs{
+    background-image: url(./imges/nodejs2.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+.python{
+    background-image: url(./imges/python.webp);
+    height:100vh ;
+    background-size: cover;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+
+.ruby{
+    background-image: url(./imges/ruby.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+
+.c#{
+    background-image: url(./imges/c.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+
+.kotlin{
+    background-image: url(./imges/kotlin.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+
+.mern{
+    background-image: url(./imges/mern.avif);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+
+.mongodb{
+    background-image: url(./imges/mongodb.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+
+.expressjs{
+    background-image: url(./imges/expressjs.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+
+.react{
+    background-image: url(./imges/react.jpeg);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+
+.nodejs2{
+    background-image: url(./imges/nodejs2.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+
+.mean{
+    background-image: url(./imges/mean.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+
+.mongodb2{
+    background-image: url(./imges/mongpdb2.jpeg);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+
+.expressjs2{
+    background-image: url(./imges/expressjs.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+
+.angular2{
+    background-image: url(./imges/angular3.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+
+.nodejs3{
+    background-image: url(./imges/nodejs2.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 5px 10px #808080;
+
+}
+
